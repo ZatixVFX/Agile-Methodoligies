@@ -1,0 +1,74 @@
+List of Agile Techniques:
+* Scrum
+* Feature Driven Development (FDD)
+* Extreme Programming (XP)
+* Agile Unified Proccess (AUP)
+* Dynamic Systems Development Methods (DSDM)
+
+Scrum
+Key features:
+- Sprint: Sprint literal meaning is a short race at full speed. Accordingly, teams usually define a short duration of a Sprint up to 2-4 weeks.
+- Sprint Planning: The entire team does the planning.
+- Daily Scrum: This is a 15 minute meeting, done daily to discuss that days work.
+- Sprint Review: This is to inspect the work delivered and adapt the product backlog.
+- Sprint Retrospective: The entire Scrum team has a meeting and discuss what can be improved.
+
+Key people:
+- Product Owner
+- Scrum Master
+- The Development Team
+
+Advtanges and Disadvantages of Scrum Technique:
+
+Advantages:
+- Flexibility and Adaptability
+- Creativity and Innovation
+- Time-to-Market
+- Lower Costs and Improved Quality
+- Improved Customer Satisfaction
+
+Disadvantages:
+- Training and Skill Required- Requires experienced and committed members.
+- Organizational Transformation-may require changes to organisation to make it work.
+- Scalability
+- Integration with Project/Program Management
+
+Feature Driven Development (FDD)
+Key Features:
+- Develop Overall Model: Continuing the research paper metaphor, this stage is when the outline is drafted. Using the “thesis” (aka primary goal) as a guide, the team will develop detailed domain models, which will then be merged into one overall model that acts as a rough outline of the system. As it develops and as the team learns, details will be added. 
+- Build Features List: Use the information assembled in the first step to create a list of the required features. Remember, a feature is a client-valued output. Make a list of features (that can be completed in two weeks’ time), and keep in mind that these features should be purposes or smaller goals, rather than tasks. 
+- Plan by Feature: Analyze the complexity of each feature and plan tasks that are related for team members to accomplish. During the planning stage, all members of the team should take part in the evaluation of features with the perspective of each development stage in mind.
+- Design by Feature: A chief programmer will determine the feature that will be designed and build. He or she will also determine the class owners and feature teams involved, while defining the feature priorities etc.
+- Build by Feature: This step implements all the necessary items that will support the design. Here, user interfaces are built, as are components detailed in the technical design, and a feature prototype is created.
+
+Key People:
+- 
+Advantages and Disadvantages of Feature Driven Develpoment (FDD):
+
+Advantages: 
+- Gives the team a very good understanding of the project’s scope and context.
+- FDD ensures customer satisfaction through active involvement of users.
+- Least documentation
+- Reduces risks of development since reviews are done regularly.
+
+Disavantages:
+- So if the customer representative is not clear about the product features, the
+development process will go out of the track.
+- Lack of documentation can be a disadvantage if some new members join in the middle
+of the launch.
+- Time consuming and wastage of resources because of constant change of
+requirements.
+- More helpful for management than developer than developers who have to cope with
+ever changing requirements.
+
+Extreme Programming (XP)
+Key features:
+- Communication: Software development is inherently a team sport that relies on communication to transfer knowledge from one team member to everyone else on the team. 
+- Simplicity: Simplicity means “what is the simplest thing that will work?” The purpose of this is to avoid waste and do only absolutely necessary things such as keep the design of the system as simple as possible so that it is easier to maintain, support, and revise.
+- Feedback: Through constant feedback about their previous efforts, teams can identify areas for improvement and revise their practices.
+- Courage: Kent Beck defined courage as “effective action in the face of fear” (Extreme Programming Explained P. 20).
+- Respect: The members of your team need to respect each other in order to communicate with each other, provide and accept feedback that honors your relationship, and to work together to identify simple designs and solutions.
+
+
+
+
